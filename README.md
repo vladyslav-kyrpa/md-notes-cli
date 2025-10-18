@@ -11,8 +11,8 @@ Simple CLI for quick notes
 4. `npm link` (link globally so you can be used from anywhere)
 
 ## Usage
-1. Config path to notes storage folder
-`note --path <folder>`
+1. Config path to notes storage directory
+`note --path <dir>`
 2. Create a new note
 `note -n <title> -m <content>`
 3. Create a note without a name (only timestamp)
